@@ -6,6 +6,8 @@
 find us on [Facebook](https://www.facebook.com/snippetsJS)
 
 
+
+
 # How to generate a random number in a given range
 
 ```javascript
